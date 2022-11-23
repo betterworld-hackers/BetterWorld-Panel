@@ -1,0 +1,1 @@
+c:\users\administrator\documents\visual studio 2012\Projects\BetterWorldPanel\BetterWorldPanel\bin\Debug\BetterWorldPanel.exe.config
